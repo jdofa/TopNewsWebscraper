@@ -1,5 +1,5 @@
 # TopNewsWebscraper
-A web craper that I built using Python.
+A web scraper that I built using Python3.
 It scrapes for the top news headlines from Google News.
 
 #What I installed for this project
